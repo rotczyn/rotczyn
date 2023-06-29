@@ -4,7 +4,7 @@
   <h3 align="center">
     I am currently studying at Hurlingham National University. I'm from Argentina and I honestly love Front-End, however every day I try harder to learn       more about computing. So much so that not only because I'm at the university I consider that this is my full range of learning, but at the same time I     try to sign up for all kinds of training available.
   </h3>
-  ![Twitter Follow](https://img.shields.io/twitter/follow/rotczyn)
+ <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/rotczyn">
 </div>
 
 
