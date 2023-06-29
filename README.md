@@ -6,5 +6,5 @@
   </h3>
 </div>
 <center>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rotczyn&theme=tokyonight&hide_border=true&border_radius=6.4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=505&background=53%2C8A10EB%2C2E0F4A)]
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?      user=rotczyn&theme=tokyonight&hide_border=true&border_radius=6.4&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=505&background=53%2C8A10EB%2C2E0F4A)]
 </center>
