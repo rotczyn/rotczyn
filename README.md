@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="http://drive.google.com/uc?export=view&id=1eBi2Frc6I2uQ0BVYMailf09MBx-bXdmZ"/>
+  <img src="https://raw.githubusercontent.com/rotczyn/assets/refs/heads/main/687474703a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d31654269324672633649327551304256594d61696c6630394d42782d6258646d5a.jpg"/>
   <h1 align="center">Hello!👋</h1>
   <h3 align="center">
    I'm a developer from Argentina, specializing in the MERN stack and PHP. I'm passionate about creating powerful web applications and constantly strive to expand my knowledge. While I already have a solid foundation, I’m always learning and growing through various training opportunities.
